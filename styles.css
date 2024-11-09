@@ -3,3 +3,7 @@ body {
     background: #774dba;
     text-align: center;
 }
+
+a:visited {
+    color: yellow;
+}
