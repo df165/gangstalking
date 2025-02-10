@@ -15,3 +15,8 @@ a:visited {
 .bold {
     font-weight: bold;
 }
+
+.main{
+    width:40%;
+    text-align: left;
+}
