@@ -7,3 +7,7 @@ body {
 a:visited {
     color: yellow;
 }
+
+.bold {
+    font-weight: bold;
+}
