@@ -4,6 +4,10 @@ body {
     text-align: left;
 }
 
+a {
+    color: red;
+}
+
 a:visited {
     color: yellow;
 }
